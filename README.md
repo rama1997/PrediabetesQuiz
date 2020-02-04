@@ -8,3 +8,8 @@ Resources: <br />
 https://www.cdc.gov/prediabetes/takethetest/<br />
 https://doihaveprediabetes.org/take-the-risk-test/<br />
 https://www.cdc.gov/diabetes/prevention/pdf/Prediabetes-Risk-Test-Final.pdf
+
+<!---
+comment test
+apk manager, get depen, run
+-->
