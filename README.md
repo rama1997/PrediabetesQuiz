@@ -1,6 +1,8 @@
 # PrediabetesQuiz
 A mobile application that includes a short and simple quiz to determine risk for prediabetes.
+
 Built using Flutter and Dart.
+
 Incorporates a government official questionnaire and scoring rubric.
 
 Why should I care about prediabetes?
